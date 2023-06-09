@@ -13,3 +13,5 @@
 ex:
 
 * linux
+
+then put in the file "0-hello_ubuntu"
