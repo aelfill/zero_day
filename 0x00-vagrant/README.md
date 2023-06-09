@@ -1,6 +1,6 @@
 # uname command
 
-to run it put:
+to run it type:
 
 * /uname
 
