@@ -2,6 +2,8 @@
 
 ## Hello Ubuntu 
 
+## I) How to run teh command "uname"
+
 1) to run it type:
 
 * /uname
